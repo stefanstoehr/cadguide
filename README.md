@@ -4,7 +4,7 @@ cadgui.de is used to tell a visual story of the idea to catch computer aided des
 
 ![UX-Study](https://raw.githubusercontent.com/stefanstoehr/cadguide/main/img/14.png)
 
-the slider code it provided by traversy media - thank you brad!
+the slider code bases on traversy media - thank you brad!
 http://www.traversymedia.com
 
 :coffee::coffee::coffee: Stefan
