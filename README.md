@@ -4,7 +4,7 @@ https://cadgui.de or https://stefanstoehr.github.io/cadguide/ is used to tell a 
 
 ![UX-Study](https://raw.githubusercontent.com/stefanstoehr/cadguide/main/img/14.png)
 
-the latest mockup-experiment can be find here: https://stefanstoehr.github.io/mockup/
+the latest mockup-experiment for https://cadgui.de can be find here: https://stefanstoehr.github.io/mockup/
 
 and the repo for the mockup with more details is here: https://github.com/stefanstoehr/mockup
 
