@@ -6,7 +6,7 @@ cadgui.de is used to tell a visual story of the idea to catch computer aided des
 
 the latest mockup-experiment can be find here: https://stefanstoehr.github.io/mockup/
 
-and the repo for the mockup is here: https://github.com/stefanstoehr/mockup
+and the repo for the mockup with more details is here: https://github.com/stefanstoehr/mockup
 
 the slider code bases on traversy media - thank you brad!
 http://www.traversymedia.com
